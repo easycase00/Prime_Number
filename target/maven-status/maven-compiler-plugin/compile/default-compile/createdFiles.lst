@@ -1,0 +1,5 @@
+com\example\hrishikesh\iu\edu\prime_number\controller\HomeController.class
+com\example\hrishikesh\iu\edu\prime_number\controller\PrimesController.class
+com\example\hrishikesh\iu\edu\prime_number\PrimeNumberApplication.class
+com\example\hrishikesh\iu\edu\prime_number\sevice\IPrimesService.class
+com\example\hrishikesh\iu\edu\prime_number\sevice\PrimesService.class
