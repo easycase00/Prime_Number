@@ -4,14 +4,11 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class PrimesService implements IPrimesService {
-    @Override
-    public boolean isPrime(int n) {
-        return false;
-    }
+
 
     @Override
     public boolean isPrime(long n){
-        if(n == 2){
+        if(n ==2 ){
             return true;
         }
         for (long i = 2L; i < n ; i++){
