@@ -35,3 +35,4 @@ jobs:
           docker login --username easycase00 --password ${{secrets.ACCESS_TOKEN}} ghcr.io
           docker build -t ghcr.io/easycase00/prime_number:latest --file Dockerfile .  
           docker push ghcr.io/easycase00/prime_number:latest 
+  # hello world
