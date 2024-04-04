@@ -20,7 +20,7 @@ services:
   prime-service:
     image: prime-service
     build:
-      context: ../prime-service
+      context: ../prime_number
       dockerfile: Dockerfile
     container_name: prime-service
     ports:

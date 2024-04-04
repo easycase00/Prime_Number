@@ -1,1 +1,2 @@
-com\iu\rokala\primesservice\PrimesServiceApplicationTests.class
+edu\iu\hmbharad\primeservice\PrimeServiceApplicationTests.class
+edu\iu\hmbharad\primeservice\service\PrimesServicesTest.class

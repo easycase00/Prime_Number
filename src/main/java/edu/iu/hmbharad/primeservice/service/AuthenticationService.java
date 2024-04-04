@@ -9,14 +9,13 @@ import org.springframework.stereotype.Service;
 
 import edu.iu.hmbharad.primeservice.model.Customer;
 import edu.iu.hmbharad.primeservice.repository.AuthenticationDBRepository;
-import edu.iu.hmbharad.primeservice.repository.IAuthenticationRepository;
 
 import java.io.IOException;
 
 @Service
 public class AuthenticationService implements IAuthenticationService, UserDetailsService {
 
-    AuthenticationDBRepository authenticationRepository;
+    private final AuthenticationDBRepository authenticationRepository;
 
     public AuthenticationService(AuthenticationDBRepository authenticationRepository) {
         this.authenticationRepository = authenticationRepository;
