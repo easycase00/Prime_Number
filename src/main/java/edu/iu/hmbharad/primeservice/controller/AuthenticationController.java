@@ -1,4 +1,4 @@
-package edu.iu.prebello.primeservice.controller;
+package edu.iu.hmbharad.primeservice.controller;
 
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import edu.iu.prebello.primeservice.model.Customer;
-import edu.iu.prebello.primeservice.service.IAuthenticationService;
-import edu.iu.prebello.primeservice.service.TokenService;
+import edu.iu.hmbharad.primeservice.model.Customer;
+import edu.iu.hmbharad.primeservice.service.IAuthenticationService;
+import edu.iu.hmbharad.primeservice.service.TokenService;
 
 import java.io.IOException;
 
