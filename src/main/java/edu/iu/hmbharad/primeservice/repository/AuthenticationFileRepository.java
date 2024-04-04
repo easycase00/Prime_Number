@@ -1,11 +1,11 @@
-package edu.iu.prebello.primeservice.repository;
+package edu.iu.hmbharad.primeservice.repository;
 
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Repository;
 
-import edu.iu.prebello.primeservice.model.Customer;
+import edu.iu.hmbharad.primeservice.model.Customer;
 
 import java.io.File;
 import java.io.IOException;

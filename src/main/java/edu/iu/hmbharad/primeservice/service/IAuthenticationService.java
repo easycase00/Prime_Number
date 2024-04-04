@@ -1,8 +1,8 @@
-package edu.iu.prebello.primeservice.service;
+package edu.iu.hmbharad.primeservice.service;
 
 import java.io.IOException;
 
-import edu.iu.prebello.primeservice.model.Customer;
+import edu.iu.hmbharad.primeservice.model.Customer;
 
 public interface IAuthenticationService {
 

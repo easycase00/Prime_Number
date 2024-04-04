@@ -1,9 +1,9 @@
-package edu.iu.prebello.primeservice.controller;
+package edu.iu.hmbharad.primeservice.controller;
 
 
 import org.springframework.web.bind.annotation.*;
 
-import edu.iu.prebello.primeservice.service.IprimesService;
+import edu.iu.hmbharad.primeservice.service.IprimesService;
 
 @RestController
 @CrossOrigin

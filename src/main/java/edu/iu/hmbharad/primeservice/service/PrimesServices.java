@@ -1,4 +1,4 @@
-package edu.iu.prebello.primeservice.service;
+package edu.iu.hmbharad.primeservice.service;
 
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package edu.iu.prebello.primeservice.service;
+package edu.iu.hmbharad.primeservice.service;
 
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
@@ -7,9 +7,9 @@ import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
-import edu.iu.prebello.primeservice.model.Customer;
-import edu.iu.prebello.primeservice.repository.AuthenticationDBRepository;
-import edu.iu.prebello.primeservice.repository.IAuthenticationRepository;
+import edu.iu.hmbharad.primeservice.model.Customer;
+import edu.iu.hmbharad.primeservice.repository.AuthenticationDBRepository;
+import edu.iu.hmbharad.primeservice.repository.IAuthenticationRepository;
 
 import java.io.IOException;
 

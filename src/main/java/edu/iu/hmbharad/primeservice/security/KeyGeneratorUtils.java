@@ -1,4 +1,4 @@
-package edu.iu.prebello.primeservice.security;
+package edu.iu.hmbharad.primeservice.security;
 
 import org.springframework.stereotype.Component;
 

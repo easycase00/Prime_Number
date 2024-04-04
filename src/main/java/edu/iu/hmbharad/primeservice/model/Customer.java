@@ -1,4 +1,4 @@
-package edu.iu.prebello.primeservice.model;
+package edu.iu.hmbharad.primeservice.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

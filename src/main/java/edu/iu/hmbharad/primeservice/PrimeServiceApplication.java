@@ -1,4 +1,4 @@
-package edu.iu.prebello.primeservice;
+package edu.iu.hmbharad.primeservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
